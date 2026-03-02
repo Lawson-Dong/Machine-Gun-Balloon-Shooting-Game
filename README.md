@@ -1,12 +1,10 @@
 # 🎯 Machine Gun Balloon Shooting Game
 
-(https://via.placeholder.com/600x400?text=Game+Demo+Screenshot)
+
 
 A fun shooting game developed with HTML5, CSS3, and JavaScript. Players need to control a machine gun to shoot rising balloons and score as many points as possible within the time limit.
 
-## 🎮 Live Demo
 
-[Click here to play the game](https://lawson-dong.github.io/Vibe-coding-fun-games)
 
 ## ✨ Features
 
